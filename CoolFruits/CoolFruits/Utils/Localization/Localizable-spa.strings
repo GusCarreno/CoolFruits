@@ -1,0 +1,12 @@
+/* 
+  Localizable-spa.strings
+  CoolFruits
+
+  Created by Gus on 7/3/23.
+  
+*/
+"family" = "Familia";
+"genus" = "Genero";
+"sugar" = "Azucar";
+"calories" = "Calorias";
+"fat" = "Grasa";

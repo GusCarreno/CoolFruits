@@ -1,0 +1,13 @@
+/* 
+  Localizable-en.strings
+  CoolFruits
+
+  Created by Gus on 7/3/23.
+  
+*/
+"family" = "Family";
+"genus" = "Genus";
+"sugar" = "Sugar";
+"calories" = "Calories";
+"fat" = "Fat";
+
